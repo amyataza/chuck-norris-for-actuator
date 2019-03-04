@@ -1,4 +1,5 @@
 package guru.springframework.chucknorrisforactuator.services;
 
-public interface jokeService {
+public interface JokeService {
+    public String getJoke();
 }
